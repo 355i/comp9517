@@ -1,2 +1,3 @@
 # comp9517
-Seaturtles, lab1-4
+deep learning-based computer vision methods for segmenting sea turtles from photographs
+and other labs
